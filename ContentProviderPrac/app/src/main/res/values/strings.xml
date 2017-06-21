@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="hello">Hello World</string>
+    <string name="app_name">Student Management</string>
+    <string name="insert">Add Student</string>
+    <string name="search">Search</string>
+    <string name="information">Information</string>
+    <string name="hint_student">Please enter student\'s name.</string>
+    <string name="hint_information">Please enter student\'s information.</string>
+    <string name="hint_keyword">Please enter keyword to search.</string>
+    <string name="action_settings">menu</string>
+    <string name="title_activity_result">Search Result</string>
+</resources>
